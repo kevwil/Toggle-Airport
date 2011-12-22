@@ -14,8 +14,8 @@ I have always run this with the files in the following locations.
 I think it may be possible to put the files in your user Library,
 but I haven't tested that.
 
-/Library/Scripts/toggleAirport.sh
-/System/Library/LaunchAgents/com.kevwil.toggleairport.plist
+* /Library/Scripts/toggleAirport.sh
+* /System/Library/LaunchAgents/com.kevwil.toggleairport.plist
 
 TODO
 ----
