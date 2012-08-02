@@ -21,6 +21,8 @@ function growl {
     # Checks whether Growl is installed
     if [ -f "/usr/local/bin/growlnotify" ]; then
 	/usr/local/bin/growlnotify -m "$1" -a "AirPort Utility.app"
+    else
+        echo "where is growlnotify?"
     fi
 
 }
